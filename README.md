@@ -5,6 +5,14 @@ A bundle transform for ASP.NET that takes a TypeScript bundle and compiles it to
 
 by Wouter Devinck (http://www.wouterdevinck.be)
 
+NuGet
+-----
+https://nuget.org/packages/TypeScriptBundleTransform
+
+```PowerShell
+PS> Install-Package TypeScriptBundleTransform
+```
+
 Usage
 -----
 ```C#
@@ -47,14 +55,6 @@ This uses the TypeScript compiler, which is written in TypeScript and compiled t
 This is an implementation of the IBundleTransform interface, found in System.Web.Optimization.
 
 If you want to take a quick look at the code, this is probably the file you are looking for: https://github.com/wouterdevinck/TypeScript-BundleTransform/blob/master/TypeScriptBundleTransform/TypeScriptTransformer.cs
-
-NuGet
------
-https://nuget.org/packages/TypeScriptBundleTransform
-
-```PowerShell
-PS> Install-Package TypeScriptBundleTransform
-```
 
 License
 -------
