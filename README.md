@@ -50,7 +50,11 @@ If you want to take a quick look at the code, this is probably the file you are 
 
 NuGet
 -----
-Coming soon
+https://nuget.org/packages/TypeScriptBundleTransform
+
+```PowerShell
+PS> Install-Package TypeScriptBundleTransform
+```
 
 License
 -------
