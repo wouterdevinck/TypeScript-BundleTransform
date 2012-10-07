@@ -1,0 +1,14 @@
+C:\Users\Wouter\Dropbox\projects\TypeScriptMvcBundles\TypeScriptBundleTransform\bin\Debug\v8\Noesis.Javascript.x64.dll
+C:\Users\Wouter\Dropbox\projects\TypeScriptMvcBundles\TypeScriptBundleTransform\bin\Debug\v8\Noesis.Javascript.x86.dll
+C:\Users\Wouter\Dropbox\projects\TypeScriptMvcBundles\TypeScriptBundleTransform\bin\Debug\TypeScriptBundleTransform.dll
+C:\Users\Wouter\Dropbox\projects\TypeScriptMvcBundles\TypeScriptBundleTransform\bin\Debug\TypeScriptBundleTransform.pdb
+C:\Users\Wouter\Dropbox\projects\TypeScriptMvcBundles\TypeScriptBundleTransform\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Wouter\Dropbox\projects\TypeScriptMvcBundles\TypeScriptBundleTransform\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Wouter\Dropbox\projects\TypeScriptMvcBundles\TypeScriptBundleTransform\bin\Debug\Noesis.Javascript.dll
+C:\Users\Wouter\Dropbox\projects\TypeScriptMvcBundles\TypeScriptBundleTransform\bin\Debug\System.Web.Optimization.dll
+C:\Users\Wouter\Dropbox\projects\TypeScriptMvcBundles\TypeScriptBundleTransform\bin\Debug\WebGrease.dll
+C:\Users\Wouter\Dropbox\projects\TypeScriptMvcBundles\TypeScriptBundleTransform\obj\Debug\TypeScriptBundleTransform.Properties.Resources.resources
+C:\Users\Wouter\Dropbox\projects\TypeScriptMvcBundles\TypeScriptBundleTransform\obj\Debug\TypeScriptBundleTransform.csproj.GenerateResource.Cache
+C:\Users\Wouter\Dropbox\projects\TypeScriptMvcBundles\TypeScriptBundleTransform\obj\Debug\TypeScriptBundleTransform.dll
+C:\Users\Wouter\Dropbox\projects\TypeScriptMvcBundles\TypeScriptBundleTransform\obj\Debug\TypeScriptBundleTransform.pdb
+C:\Users\Wouter\Dropbox\projects\TypeScriptMvcBundles\TypeScriptBundleTransform\obj\Debug\TypeScriptBundleTransform.csprojResolveAssemblyReference.cache
