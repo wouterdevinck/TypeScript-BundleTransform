@@ -64,7 +64,7 @@ The following licenses apply:
 2. TypeScript                        - Apache License 2.0   - http://typescript.codeplex.com
 3. Noesis Innovation Javascript.NET  - New BSD License      - http://javascriptdotnet.codeplex.com
 4. Google V8                         - New BSD License      - http://code.google.com/p/v8/
-5. Douglas Crockford's jsmin.c       - License below        - http://www.crockford.com
+5. Douglas Crockford's jsmin.c       - License below        - http://javascript.crockford.com/jsmin.html
 6. Inspired by: TypeScript-compile   - Apache License 2.0   - https://github.com/niutech/typescript-compile/
 
 See [license.txt](https://github.com/wouterdevinck/TypeScript-BundleTransform/blob/master/license.txt) for more info.
