@@ -46,6 +46,8 @@ How it works
 This uses the TypeScript compiler, which is written in TypeScript and compiled to Javascript and runs it in Google's V8 Javascript Engine on your server.
 This is an implementation of the IBundleTransform interface, found in System.Web.Optimization.
 
+If you want to take a quick look at the code, this is probably the file you are looking for: https://github.com/wouterdevinck/TypeScript-BundleTransform/blob/master/TypeScriptBundleTransform/TypeScriptTransformer.cs
+
 NuGet
 -----
 Coming soon
